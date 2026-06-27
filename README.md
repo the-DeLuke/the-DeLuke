@@ -1,81 +1,119 @@
 
-# Hi there 👋 I'm Dany Geo Johnson
+<h1 align="center">Hi 👋, I'm Dany Geo Johnson</h1>
+<h3 align="center">Cybersecurity Analyst | SOC Analyst | Blue Team Enthusiast</h3>
 
-### Cybersecurity Analyst | SOC Analyst | CEH Certified
+<p align="center">
+  <a href="https://www.linkedin.com/in/dany-geo-johnson">
+    <img src="https://img.shields.io/badge/LinkedIn-Dany%20Geo%20Johnson-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:danygeo13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danygeo13@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 🎓 B.Tech in Computer Science Engineering
 
-🛡️ Passionate about Security Operations (SOC), Threat Detection, Incident Response, and Blue Team Operations.
+🛡️ CEH Certified | Advanced Diploma in Cyber Defense
+
+🔍 Passionate about Security Operations (SOC), Threat Hunting, Incident Response, and Blue Team Operations.
+
+🌱 Currently learning:
+- Microsoft Sentinel
+- Active Directory
+- Windows Server
+- Microsoft Defender
+- Cloud Security
+
+💡 I enjoy building hands-on security labs and developing cybersecurity tools using Python.
 
 ---
 
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science Graduate
-- 🛡️ Certified Ethical Hacker (CEH)
-- 🎓 Advanced Diploma in Cyber Defense
-- 🔍 Interested in SOC Operations, Threat Hunting & Incident Response
-- 📊 Hands-on experience with SIEM solutions including Wazuh and Splunk
-- 🐧 Comfortable working with Windows and Linux environments
-- 🐍 Develop security automation tools using Python
-- 📚 Continuously learning Microsoft Sentinel, Active Directory, and Cloud Security
-
----
-
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Security Operations
-- SIEM Monitoring
-- Alert Triage
-- Log Analysis
-- Threat Detection
-- Incident Response
-- MITRE ATT&CK
-- IOC Analysis
-- Threat Hunting
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
 
 ### Security Tools
-- Wazuh
-- Splunk
-- Microsoft Sentinel
-- Wireshark
-- Burp Suite
-- OWASP ZAP
-- Nmap
-- OpenVAS
-- Nikto
-- Hydra
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge)
 
 ### Operating Systems
-- Windows
-- Ubuntu Linux
-- Kali Linux
-- Windows Server
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Programming
-- Python
-- Bash
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🛡️ Enterprise Security Operations Center (SOC) Lab
+### 🛡️ Enterprise SOC Lab
+- Built a Wazuh-based SOC environment with Windows and Linux endpoints.
+- Implemented File Integrity Monitoring (FIM), centralized log analysis, and security event monitoring.
+- Simulated SSH brute-force attacks using Hydra and investigated alerts.
 
-- Built a Wazuh-based SOC environment using Windows and Linux endpoints.
-- Configured File Integrity Monitoring (FIM), log collection, and security event monitoring.
-- Simulated SSH brute-force attacks using Hydra and investigated alerts using Wazuh.
-
----
-
-## 🔐 Python Security Tools
-
-Developed multiple cybersecurity tools including:
-
+### 🔐 Python Security Tools
 - File Integrity Checker
 - Web Vulnerability Scanner
 - Python Penetration Testing Toolkit
 - AES-256 File Encryptor
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ---
 
@@ -87,23 +125,12 @@ Developed multiple cybersecurity tools including:
 
 ---
 
-## 📈 Currently Learning
-
-- Microsoft Sentinel
-- Active Directory
-- Windows Server
-- Microsoft Defender
-- Detection Engineering
-- Threat Hunting
-
----
-
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/dany-geo-johnson
-- Email: danygeo13@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dany-geo-johnson
+- 📧 Email: danygeo13@gmail.com
 
 ---
 
-⭐ *Always learning, building, and improving cybersecurity skills through hands-on labs and real-world projects.*
-
+⭐ *"Learn. Build. Secure. Repeat."*
+```
