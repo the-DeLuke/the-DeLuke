@@ -129,6 +129,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/dany-geo-johnson
 - 📧 Email: danygeo13@gmail.com
+- Portfolio: https://the-deluke.github.io/danygeojohnson.github.io/
 
 ---
 
